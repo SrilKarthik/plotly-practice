@@ -1,3 +1,3 @@
 # plotly-practice
 
-[Website] https://github.com/SrilKarthik/plotly-practice
+[Website]  https://srilkarthik.github.io/plotly-practice/
